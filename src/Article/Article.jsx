@@ -3,7 +3,7 @@ import React from 'react'
 const Article = () => {
   return (
     <div>
-      <h1>The Statue of Liberty's torch heads iiii to new museum </h1>
+      <h1>The Statue of Liberty's torch heads to new museum </h1>
 
       <p><i>by Kate Farley <a href="kate.farley@nytimes.com">(kate.farley@nytimes.com)</a></i><br />November 22, 2018</p>
 
@@ -25,7 +25,7 @@ const Article = () => {
 
       <br />Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.<br />
 
-      <br />"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal:<br /><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Give me your tired, your poor<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your huddled masses yearning to breathe free."</p><br />
+      <br />"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal:<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Give me your tired, your poor<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your huddled masses yearning to breathe free.<br />
 
       <br />In 2017, nearly 4.5 million people visited Liberty Island.<br />
 
